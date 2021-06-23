@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id"/>
+    <item name="grup" type="id" />
+    <item name="nama" type="id" />
+    <item name="password" type="id" />
+    <item name="username_param" type="id" />
+    <item name="btn_delete" type="id" />
+    <item name="inp_username" type="id" />
+    <item name="inp_grup" type="id" />
+    <item name="inp_nama" type="id" />
+    <item name="inp_password" type="id" />
+    <item name="btn_cancel" type="id" />
+    <item name="btn_simpan" type="id" />
+    <item name="recyclerviewTemp" type="id" />
+</resources>
